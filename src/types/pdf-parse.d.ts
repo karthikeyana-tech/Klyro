@@ -1,4 +1,5 @@
-# This file contains type declarations needed by pdf-parse
+// Type declarations for pdf-parse
+
 declare module "pdf-parse" {
   interface PDFData {
     text: string;
